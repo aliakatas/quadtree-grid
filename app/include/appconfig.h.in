@@ -1,0 +1,2 @@
+#define APP_VERSION_MAJOR @quadtree_grid_generator_VERSION_MAJOR@
+#define APP_VERSION_MINOR @quadtree_grid_generator_VERSION_MINOR@
