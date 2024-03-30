@@ -1,3 +1,6 @@
+#ifndef QGMMESSAGE_H
+#define QGMMESSAGE_H
+
 #include <chrono>
 #include <string>
 
@@ -76,3 +79,4 @@ namespace qgmmessage
 
 }
 
+#endif // QGMMESSAGE_H
