@@ -11,5 +11,7 @@ target_include_directories(quadtree_grid_generator PUBLIC
                            "${PROJECT_BINARY_DIR}/include"
                            )
 
+target_link_libraries(quadtree_grid_generator PUBLIC ../engine/message_logger)
+
 
 
